@@ -143,8 +143,12 @@ hosted versions linked from the article.
 
 | File | Appendix | What you can do |
 |---|---|---|
-| `step4_network_interactive.html https://anapaulagonzaleztorres.github.io/AI_Act_Digital_Omnibus_on_AI_Simplification/interactive/step4_network_interactive.html` | 4.5 | Filter by actor type; dim or hide non-matching actors; click a node to isolate it and its positions |
-| `step5_dna_interactive_physics.html https://anapaulagonzaleztorres.github.io/AI_Act_Digital_Omnibus_on_AI_Simplification/interactive/step5_dna_interactive_physics.html` | 7 | Toggle congruence/conflict; filter by regulatory tool; click a position in the legend to show only actors holding that stance; click a node to isolate its neighbours |
+| `step4_network_interactive.html ` | 4.5 | Filter by actor type; dim or hide non-matching actors; click a node to isolate it and its positions |
+| `step5_dna_interactive_physics.html ` | 7 | Toggle congruence/conflict; filter by regulatory tool; click a position in the legend to show only actors holding that stance; click a node to isolate its neighbours |
+
+https://anapaulagonzaleztorres.github.io/AI_Act_Digital_Omnibus_on_AI_Simplification/interactive/step4_network_interactive.html
+
+https://anapaulagonzaleztorres.github.io/AI_Act_Digital_Omnibus_on_AI_Simplification/interactive/step5_dna_interactive_physics.html
 
 ---
 
