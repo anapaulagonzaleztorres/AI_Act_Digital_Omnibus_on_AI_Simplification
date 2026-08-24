@@ -1,0 +1,17 @@
+snippet_id,position,argument_type
+54,pro_simplification,regulatory_coherence
+68,pro_simplification,technical_feasibility
+47,anti_deregulation,rights_protection
+10,pro_simplification,competitiveness
+52,pro_simplification,regulatory_coherence
+17,pro_simplification,technical_feasibility
+72,pro_simplification,technical_feasibility
+44,anti_simplification,rights_protection
+3,pro_simplification,regulatory_coherence
+16,pro_simplification,technical_feasibility
+45,pro_simplification,legal_certainty
+82b,pro_deregulation,legal_certainty
+43,pro_simplification,legal_certainty
+64b,pro_simplification,technical_feasibility
+40,anti_simplification,rights_protection
+35,pro_simplification,technical_feasibility

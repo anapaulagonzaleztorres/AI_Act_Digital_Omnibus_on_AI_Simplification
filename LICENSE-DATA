@@ -1,0 +1,38 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Ana Paula Gonzalez Torres
+
+The data files, derived tables, figures and documentation in this repository are
+licensed under the Creative Commons Attribution 4.0 International License.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+Please cite as:
+
+  A. P. Gonzalez Torres, "AI the Brussels way: Simplifying the (de)regulation?",
+  Journal of Computational Law and Legal Technology (forthcoming).
+
+---
+Applies to: eu_feedback_filtered.csv, eu_feedback_coded.csv, network_summary.csv,
+centrality_congruence.csv, centrality_conflict.csv, all .png figures, both
+interactive .html files, README.md, CODEBOOK.md, CODEBOOK_for_coders.md,
+blind_sheet_inter_coder.xlsx.
+
+SCOPE — IMPORTANT
+
+This licence covers the compilation, coding, annotation and analysis contained in
+these files. It does NOT and cannot cover the underlying consultation submissions
+themselves, which are the work of the organisations that filed them and are
+published by the European Commission on its Have Your Say portal:
+
+  https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/
+  14855-Simplification-digital-package-and-omnibus/feedback_en
+
+Quoted passages from those submissions appear here for research purposes. Anyone
+reusing them should refer to the Commission's own reuse notice and to the
+originating organisation.

@@ -1,0 +1,3 @@
+network,nodes_total,nodes_connected,edges,density,components,modularity,n_communities,top_degree_actor,top_degree_value,top_betweenness_actor,top_betweenness_value
+Congruence network (all tools),45,42,452,0.525,2,0.198,3,OpenAI,39,OpenAI,0.015
+Conflict network (all tools),45,42,167,0.194,1,0.276,2,AI Standards Lab,41,AI Standards Lab,0.347

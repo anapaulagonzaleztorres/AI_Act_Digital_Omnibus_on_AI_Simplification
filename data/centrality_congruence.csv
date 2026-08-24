@@ -1,0 +1,43 @@
+actor,actor_type,weighted_degree,betweenness
+BDI,Business association,39,0.0152
+ZVEI e.V.,Business association,39,0.0152
+Volkswagen Group,Company/business,39,0.0152
+Ecommerce Europe,Business association,39,0.0152
+Amazon,Company/business,39,0.0152
+AMETIC,Business association,39,0.0152
+OpenAI,Company/business,39,0.0152
+IBM,Company/business,39,0.0152
+ENSHPO,Other,28,0.0
+TikTok Technology Ltd.,Company/business,28,0.0
+European Signature Dialog,Other,27,0.0
+Cisco,Company/business,27,0.0
+Veridas Digital Authentication Solutions,Company/business,27,0.0
+Business & Science Poland,Business association,27,0.0
+Bitkom e.V.,Business association,27,0.0
+American Chamber of Commerce to the EU,Business association,27,0.0
+"Ireland - Dep Enterprise, Tourism and Employment",Other,27,0.0
+DIGITALEUROPE,Business association,27,0.0
+CECIMO,Business association,27,0.0
+Danish Industry,Business association,27,0.0
+Dutch Startup Association,Business association,27,0.0
+ING Group,Company/business,27,0.0
+COCIR,Business association,27,0.0
+German AI Association,Business association,27,0.0
+Orgalim,Business association,27,0.0
+ORANGE,Company/business,27,0.0
+SAP SE,Company/business,27,0.0
+Schneider Electric,Company/business,27,0.0
+DOT Europe,Business association,12,0.0
+Alliance for Responsible Data Collection,Other,12,0.0
+Czech Rep - Ministry of Industry and Trade,Public authority,12,0.0
+Ibec,Business association,12,0.0
+The International Center for Law & Economics,Academic/research Institution,12,0.0
+AI Standards Lab,Academic/research Institution,8,0.0146
+MFE-MEDIAFOREUROPE N.V.,Company/business,6,0.0
+Pour Demain Europe,Academic/research Institution,6,0.0
+BDZV,Business association,6,0.0
+EMMA-ENPA,Business association,6,0.0
+MVFP,Business association,6,0.0
+European Publishers Council,Business association,6,0.0
+BEUC - The European Consumer Organisation,Consumer organisation,2,0.0
+TÜV-Verband e. V.,Business association,2,0.0

@@ -1,0 +1,43 @@
+actor,actor_type,weighted_degree,betweenness
+AI Standards Lab,Academic/research Institution,41,0.3468
+BEUC - The European Consumer Organisation,Consumer organisation,28,0.1864
+TÜV-Verband e. V.,Business association,28,0.1864
+Pour Demain Europe,Academic/research Institution,13,0.0138
+EMMA-ENPA,Business association,13,0.0138
+MVFP,Business association,13,0.0138
+BDZV,Business association,13,0.0138
+MFE-MEDIAFOREUROPE N.V.,Company/business,13,0.0138
+European Publishers Council,Business association,13,0.0138
+BDI,Business association,10,0.0202
+Ecommerce Europe,Business association,10,0.0202
+Amazon,Company/business,10,0.0202
+Volkswagen Group,Company/business,10,0.0202
+ZVEI e.V.,Business association,10,0.0202
+AMETIC,Business association,10,0.0202
+IBM,Company/business,10,0.0202
+OpenAI,Company/business,10,0.0202
+Czech Rep - Ministry of Industry and Trade,Public authority,7,0.007
+Ibec,Business association,7,0.007
+The International Center for Law & Economics,Academic/research Institution,7,0.007
+Alliance for Responsible Data Collection,Other,7,0.007
+DOT Europe,Business association,7,0.007
+Bitkom e.V.,Business association,3,0.0003
+Cisco,Company/business,3,0.0003
+Business & Science Poland,Business association,3,0.0003
+ENSHPO,Other,3,0.0003
+American Chamber of Commerce to the EU,Business association,3,0.0003
+European Signature Dialog,Other,3,0.0003
+DIGITALEUROPE,Business association,3,0.0003
+"Ireland - Dep Enterprise, Tourism and Employment",Other,3,0.0003
+TikTok Technology Ltd.,Company/business,3,0.0003
+Veridas Digital Authentication Solutions,Company/business,3,0.0003
+ING Group,Company/business,3,0.0003
+COCIR,Business association,3,0.0003
+German AI Association,Business association,3,0.0003
+Orgalim,Business association,3,0.0003
+ORANGE,Company/business,3,0.0003
+SAP SE,Company/business,3,0.0003
+Danish Industry,Business association,3,0.0003
+Schneider Electric,Company/business,3,0.0003
+Dutch Startup Association,Business association,3,0.0003
+CECIMO,Business association,3,0.0003
